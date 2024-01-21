@@ -70,7 +70,7 @@ def paginate_modules(page_n: int, module_dict: Dict, prefix, chat=None) -> List:
     else:
         pairs += [
             [
-                EqInlineKeyboardButton(text="ɢᴏ-ʜᴏᴍᴇ 🏡", callback_data="fallen_back"),
+                EqInlineKeyboardButton(text="ɢᴏ-ʜᴏᴍᴇ 🏡", callback_data="masha_back"),
             ],
         ]
     return pairs
