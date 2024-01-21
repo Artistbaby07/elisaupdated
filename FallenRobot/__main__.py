@@ -10,7 +10,6 @@ from FallenRobot import (
     OWNER_ID,
     SUPPORT_CHAT,
     TOKEN,
-    URL,
     SUPPORT_CHAT,
     dispatcher,
     StartTime,
