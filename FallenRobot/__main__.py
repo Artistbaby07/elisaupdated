@@ -8,7 +8,6 @@ from FallenRobot import (
     ALLOW_EXCL,
     CERT_PATH,
     OWNER_ID,
-    PORT,
     SUPPORT_CHAT,
     TOKEN,
     URL,
