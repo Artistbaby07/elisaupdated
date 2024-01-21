@@ -7,6 +7,7 @@ from typing import Optional
 from FallenRobot import (
     ALLOW_EXCL,
     CERT_PATH,
+    LOGGER,
     OWNER_ID,
     SUPPORT_CHAT,
     TOKEN,
